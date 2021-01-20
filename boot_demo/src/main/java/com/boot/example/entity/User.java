@@ -1,5 +1,10 @@
 package com.boot.example.entity;
 
+import org.omg.CORBA.DATA_CONVERSION;
+import org.springframework.format.annotation.DateTimeFormat;
+
+import java.util.Date;
+
 /**
  * @author shenwenwen
  * @date 2020/9/2
@@ -12,6 +17,14 @@ public class User {
     private String username;
 
     private String password;
+
+    private Integer isExist;
+
+    private String sex;
+
+    private String telephone;
+
+    private Date registerDate;
 
     public String getId() {
         return id;
@@ -35,5 +48,37 @@ public class User {
 
     public void setPassword(String password) {
         this.password = password;
+    }
+
+    public Integer getIsExist() {
+        return isExist;
+    }
+
+    public void setIsExist(Integer isExist) {
+        this.isExist = isExist;
+    }
+
+    public String getSex() {
+        return sex;
+    }
+
+    public void setSex(String sex) {
+        this.sex = sex;
+    }
+
+    public String getTelephone() {
+        return telephone;
+    }
+
+    public void setTelephone(String telephone) {
+        this.telephone = telephone;
+    }
+
+    public Date getRegisterDate() {
+        return registerDate;
+    }
+
+    public void setRegisterDate(Date registerDate) {
+        this.registerDate = registerDate;
     }
 }

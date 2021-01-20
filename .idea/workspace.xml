@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6528fee-1bf8-423c-9440-1723883afeb6" name="Default Changelist" comment="" />
+    <list default="true" id="e6528fee-1bf8-423c-9440-1723883afeb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/MenuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/SubMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/MenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/ResultObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot_demo/src/main/resources/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_springboot/src/assets/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_springboot/src/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_springboot/src/views/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_springboot/src/views/Welcome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_springboot/src/views/book/BookList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue_springboot/src/views/user/UserList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/classes/com/boot/example/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot_demo/target/test-classes/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/boot_demo/target/test-classes/MyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_springboot/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_springboot/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_springboot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_springboot/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_springboot/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_springboot/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_springboot/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_springboot/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_springboot/src/plugins/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_springboot/src/plugins/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_springboot/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_springboot/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_springboot/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_springboot/src/views/Login.vue" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/vue_springboot_af/target/" />
     <ignored path="$PROJECT_DIR$/boot_demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,24 +54,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/Login.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+            <state relative-caret-position="760">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/UserServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/user/UserList.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="-4907">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#0#22#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/Index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/book/BookList.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/api/user.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/plugins/element.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -37,8 +124,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue_springboot/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state>
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -47,64 +133,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot_demo/src/main/resources/mapper/UserMapper.xml">
+        <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/Welcome.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot_demo/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot_demo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue_springboot/vue.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vue_springboot/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="266">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -114,9 +146,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Vue Single File Component" />
         <option value="JavaScript File" />
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Vue Single File Component" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -127,10 +161,20 @@
       <find>需要登录</find>
       <find>innerPost</find>
       <find>post</find>
+      <find>close</find>
+      <find>input3</find>
+      <find>handleClose</find>
+      <find>home-container</find>
+      <find>toggle-button</find>
+      <find>handleSizeChange</find>
+      <find>addDialogClosed</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,28 +183,45 @@
         <option value="$PROJECT_DIR$/vue_springboot_af/src/main/java/com/example/demo/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/vue_springboot_af/pom.xml" />
         <option value="$PROJECT_DIR$/vue_springboot_af/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/vue_springboot/src/App.vue" />
-        <option value="$PROJECT_DIR$/vue_springboot/src/router.js" />
         <option value="$PROJECT_DIR$/vue_springboot_f/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/vue_springboot/src/api/user.js" />
         <option value="$PROJECT_DIR$/vue_springboot/src/plugins/ajax.js" />
         <option value="$PROJECT_DIR$/vue_springboot_f/src/main/java/com/sww/bank_book/login/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/vue_springboot/public/index.html" />
         <option value="$PROJECT_DIR$/vue_springboot/src/plugins/config.js" />
         <option value="$PROJECT_DIR$/vue.config.js" />
+        <option value="$PROJECT_DIR$/vue_springboot/vue.config.js" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/main.js" />
+        <option value="$PROJECT_DIR$/boot_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/views/book/BookList.vue" />
+        <option value="$PROJECT_DIR$/vue_springboot/public/index.html" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/views/Login.vue" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/MenuService.java" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/MenuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/MenuController.java" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/views/user/VueList.vue" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/views/Welcome.vue" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/Menu.java" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/SubMenu.java" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/resources/mapper/MenuMapper.xml" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/plugins/element.js" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/MenuDao.java" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/PageObject.java" />
+        <option value="$PROJECT_DIR$/boot_demo/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/App.vue" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/User.java" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/ResultObject.java" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/router.js" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/MD5Util.java" />
         <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/UserService.java" />
         <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/boot_demo/src/test/java/MyTest.java" />
-        <option value="$PROJECT_DIR$/vue_springboot/package.json" />
-        <option value="$PROJECT_DIR$/vue_springboot/vue.config.js" />
-        <option value="$PROJECT_DIR$/vue_springboot/src/main.js" />
-        <option value="$PROJECT_DIR$/boot_demo/src/main/resources/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/boot_demo/pom.xml" />
-        <option value="$PROJECT_DIR$/boot_demo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/vue_springboot/src/views/Login.vue" />
+        <option value="$PROJECT_DIR$/boot_demo/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/views/user/UserList.vue" />
+        <option value="$PROJECT_DIR$/vue_springboot/package.json" />
+        <option value="$PROJECT_DIR$/vue_springboot/src/views/Index.vue" />
       </list>
     </option>
   </component>
@@ -182,18 +243,19 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="325" />
-    <option name="y" value="205" />
-    <option name="width" value="1565" />
-    <option name="height" value="835" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,140 +266,6 @@
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="boot" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="boot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="vue_springboot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -345,6 +273,13 @@
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="vue_springboot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
@@ -353,11 +288,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="vue_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -367,22 +317,25 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604568179848" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/boot_demo/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610105251401" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\EProgram Files\IntelliJ IDEA 2018.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\SStudy\Vue\project" />
-      <recent name="E:\SStudy\Vue\project\vue_springboot\src\plugins" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SStudy\Vue\project\vue_springboot" />
       <recent name="E:\SStudy\Vue\project\vue_springboot\src" />
       <recent name="E:\SStudy\Vue\project\vue_springboot\src\plugins" />
       <recent name="E:\SStudy\Vue\project\vue_springboot\src\commons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SStudy\Vue\project\boot_demo\src\main\java\com\boot\example\utils" />
+      <recent name="E:\SStudy\Vue\project\vue_springboot\src\assets" />
+      <recent name="E:\SStudy\Vue\project" />
+      <recent name="E:\SStudy\Vue\project\vue_springboot\src\plugins" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -436,18 +389,34 @@
       <workItem from="1604299687964" duration="3862000" />
       <workItem from="1604368791855" duration="23069000" />
       <workItem from="1604542712363" duration="8418000" />
-      <workItem from="1604885088861" duration="1852000" />
+      <workItem from="1604885088861" duration="19062000" />
+      <workItem from="1605581210526" duration="42390000" />
+      <workItem from="1606285301021" duration="29985000" />
+      <workItem from="1606715783675" duration="19596000" />
+      <workItem from="1607309394182" duration="16078000" />
+      <workItem from="1609899130755" duration="25000" />
+      <workItem from="1609914731587" duration="14127000" />
+      <workItem from="1610368300857" duration="4480000" />
+      <workItem from="1610587708350" duration="9053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37201000" />
+    <option name="totallyTimeSpent" value="190145000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19638069" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31702414" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -458,24 +427,25 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17821783" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.22065064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36827195" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.04249292" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.17256011" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42351276" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3286119" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="14" weight="0.32956153" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="TypeScript" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.1461126" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.30152145" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Alibaba Function Compute" order="6" />
@@ -529,200 +499,424 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vue_springboot_af/src/main/java/com/example/demo/DemoApplication.java" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_af/src/main/java/com/example/demo/controller/IndexController.java" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/.idea/inspectionProfiles/Project_Default.xml" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/.idea/compiler.xml" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/.idea/encodings.xml" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/resources/mapper/UserMapper.xml" />
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/authenticator/AuthenticatorBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="326" selection-start-line="326" selection-end-line="326" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/core/StandardHostValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/valves/ErrorReportValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/core/StandardEngineValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/ErrorState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/tomcat/util/net/AbstractEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="603" selection-start-line="603" selection-end-line="603" />
+          <folding>
+            <element signature="e#19370#19371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/AsyncStateMachine.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#12202#12203#0" expanded="true" />
+            <element signature="e#12245#12246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/juli/logging/DirectJDKLog.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#1041#1042#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/AbstractProcessorLight.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/tomcat/util/net/SocketWrapperBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="e#5562#5563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/AbstractProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="813" selection-start-line="813" selection-end-line="813" />
+          <folding>
+            <element signature="e#13964#13965#0" expanded="true" />
+            <element signature="e#14011#14012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/AbstractProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#3141#3142#0" expanded="true" />
+            <element signature="e#3179#3180#0" expanded="true" />
+            <element signature="e#3319#3320#0" expanded="true" />
+            <element signature="e#4010#4011#0" expanded="true" />
+            <element signature="e#4065#4066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/http11/Http11Processor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="902" selection-start-line="902" selection-end-line="902" />
+          <folding>
+            <element signature="e#31111#31112#0" expanded="true" />
+            <element signature="e#31137#31138#0" expanded="true" />
+            <element signature="e#35104#35105#0" expanded="true" />
+            <element signature="e#35152#35153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="386" selection-start-line="386" selection-end-line="386" />
+          <folding>
+            <element signature="e#11238#11239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/coyote/Response.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#2838#2839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/connector/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="355" selection-start-line="355" selection-end-line="355" />
+          <folding>
+            <element signature="e#12797#12798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/connector/OutputBuffer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+          <folding>
+            <element signature="e#9815#9816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/connector/Response.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="e#5068#5069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.29/tomcat-embed-core-9.0.29.jar!/org/apache/catalina/connector/CoyoteAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="548" selection-start-line="548" selection-end-line="548" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/MenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/resources/mapper/MenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/ResultObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/PageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="60" column="48" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/utils/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="35" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="88" column="50" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/MenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/node_modules/element-ui/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/node_modules/element-ui/types/element-ui.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/element-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="399">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/node_modules/element-ui/packages/theme-chalk/src/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/api/user.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/plugins/element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/Welcome.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vue_springboot/src/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="-29">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar!/ch/qos/logback/classic/Logger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="399" selection-start-line="399" selection-end-line="399" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/resources/templates/mybookclass.html" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot/src/plugins/axios.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/resources/static/js/axios.min.js" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot/src/api/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot/src/plugins/ajax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="67" column="41" lean-forward="true" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot/src/components/HelloWorld.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/resources/templates/admin_index.html" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/resources/templates/login.html" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/resources/templates/mybookdetails.html" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/java/com/sww/bank_book/utils/MD5Util.java" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/java/com/sww/bank_book/admin/controller/AdminLoginController.java" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/java/com/sww/bank_book/login/service/impl/UserServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot/src/plugins/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/java/com/sww/bank_book/login/controller/UserController.java" />
-    <entry file="file://$PROJECT_DIR$/vue_springboot_f/src/main/java/com/sww/bank_book/BankPaymentApplication.java" />
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/BootDemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/test/java/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue_springboot/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state>
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/resources/mapper/UserMapper.xml">
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot/vue.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue_springboot/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot_demo/src/main/java/com/boot/example/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="38">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/Login.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        <state relative-caret-position="760">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/user/UserList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4907">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/book/BookList.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_springboot/src/views/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>

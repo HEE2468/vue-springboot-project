@@ -5,11 +5,51 @@
 <mapper namespace="com.boot.example.dao.UserDao">
 
     <select id="findAllUsers" resultType="com.boot.example.entity.User">
-        SELECT * FROM user
+        SELECT
+        id,
+        username,
+        password,
+        sex,
+        register_Date AS registerDate,
+        telephone,
+        isExist
+        FROM user
+        <if test="username != null and  username !=''">
+            WHERE username = #{username}
+        </if>
+        LIMIT #{offset},#{rows}
+    </select>
+
+    <select id="countAllUsers" resultType="java.lang.Integer">
+        SELECT count(*) FROM user
     </select>
 
     <select id="login" resultType="com.boot.example.entity.User">
-        SELECT * FROM user WHERE name = #{username} AND password = #{password}
+        SELECT * FROM user WHERE username = #{username} AND password = #{password}
     </select>
+
+    <update id="userStateChanged">
+        UPDATE user SET
+        isExist = #{isExist}
+        WHERE id = #{id}
+    </update>
+
+    <insert id="addUserByUserInfo">
+        INSERT into user(id,username,password,sex,register_date,telephone) values (#{id},#{username},#{password},#{sex},#{registerDate},#{telephone})
+    </insert>
+
+    <update id="updateUserByUserInfo">
+          UPDATE user SET
+            <if test="username !=null and username !=''">
+                username = #{username},
+            </if>
+            <if test="sex != null">
+                sex = #{sex},
+            </if>
+            <if test="telephone !=null and telephone !=''">
+                telephone = #{telephone}
+            </if>
+          WHERE id = #{id}
+    </update>
 
 </mapper>

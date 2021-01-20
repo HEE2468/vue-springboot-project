@@ -25,11 +25,7 @@ public class MyTest {
 
    @Test
     public void findAllUsers() throws Exception{
-        if(userService.findAllUsers().size()!=0){
-        }else {
-            System.out.println("没有数据!");
 
-        }
     }
 
 }
